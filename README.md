@@ -1,2 +1,2 @@
-# levy-burguer
-Proyecto de una pagina Web de Hamburguesas
+# Levy-Burguer
+Proyecto, una pagina Web de Hamburguesas
